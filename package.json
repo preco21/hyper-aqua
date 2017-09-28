@@ -1,0 +1,33 @@
+{
+  "name": "hyper-aqua",
+  "version": "1.0.0",
+  "description": "Cool Hyper theme with pastel and blue cocktail",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/preco21/hyper-aqua#readme",
+  "repository": "https://github.com/preco21/hyper-aqua",
+  "bugs": {
+    "url": "https://github.com/preco21/hyper-aqua/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hypertheme",
+    "term",
+    "terminal",
+    "theme",
+    "aqua",
+    "pastel",
+    "cocktail"
+  ],
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-prev": "^6.2.0"
+  }
+}
