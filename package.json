@@ -2,6 +2,7 @@
   "name": "hyper-aqua",
   "version": "1.0.0",
   "description": "Cool Hyper theme with pastel and blue cocktail",
+  "author": "Plusb Preco <plusb21@gmail.com>",
   "main": "index.js",
   "scripts": {
     "test": "eslint ."
