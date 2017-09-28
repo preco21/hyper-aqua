@@ -6,6 +6,8 @@
 
 > :droplet: Cool Hyper theme with pastel and blue cocktail
 
+![screenshot](media/screenshot.png)
+
 ## Install
 
 Add `hyper-aqua` to `plugins` in `~/.hyper.js` config file and restart Hyper.
