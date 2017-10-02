@@ -5,15 +5,15 @@ const backgroundColor = 'rgba(19, 41, 61, 0.66)';
 const foregroundColor = '#fefefe';
 
 // Common colors
-const red = '#ED4A67';
-const green = '#CEFF1A';
-const yellow = '#FEF226';
-const blue = '#26BBFE';
-const magenta = '#B14DD6';
-const cyan = '#75F4F4';
-const orange = '#FE9B26';
-const white = '#FAFFFD';
-const gray = '#C0BCB5';
+const red = '#ed4a67';
+const green = '#ceff1a';
+const yellow = '#fef226';
+const blue = '#26bbfe';
+const magenta = '#b14dd6';
+const cyan = '#75f4f4';
+const orange = '#fe9b26';
+const white = '#fafffd';
+const gray = '#c0bcb5';
 
 // Decorate user configuration
 exports.decorateConfig = (config) => {
