@@ -2,6 +2,7 @@
 
 // Base colors
 const backgroundColor = 'rgba(19, 41, 61, 0.66)';
+const backgroundColorWithoutTransparency = '#13293d';
 const foregroundColor = '#fefefe';
 
 // Common colors
@@ -32,7 +33,7 @@ exports.decorateConfig = (config) => {
 
   // eslint-disable-next-line no-restricted-properties
   return Object.assign({}, config, {
-    backgroundColor,
+    backgroundColor: vibrancy ? backgroundColor : backgroundColorWithoutTransparency,
     foregroundColor,
     borderColor: 'transparent',
     cursorColor: yellow,
