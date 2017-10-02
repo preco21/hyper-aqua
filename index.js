@@ -1,19 +1,19 @@
 'use strict';
 
 // Base colors
-const backgroundColor = 'rgba(0, 65, 117, 0.66)';
+const backgroundColor = 'rgba(19, 41, 61, 0.66)';
 const foregroundColor = '#fefefe';
 
 // Common colors
-const red = '#e2469c';
-const green = '#8ff011';
-const yellow = '#f7dd11';
-const orange = '#f6a21b';
-const blue = '#08b1ff';
-const magenta = '#ca42d6';
-const cyan = '#17e4ff';
-const white = '#e2e2e2';
-const gray = '#9c9c9c';
+const red = '#ED4A67';
+const green = '#CEFF1A';
+const yellow = '#FEF226';
+const blue = '#26BBFE';
+const magenta = '#B14DD6';
+const cyan = '#75F4F4';
+const orange = '#FE9B26';
+const white = '#FAFFFD';
+const gray = '#C0BCB5';
 
 // Decorate user configuration
 exports.decorateConfig = (config) => {
