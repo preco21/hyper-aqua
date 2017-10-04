@@ -82,7 +82,7 @@ exports.decorateConfig = (config) => {
         font-weight: bold;
       }
       .tab_textActive {
-        border-bottom: 2px solid ${blue};
+        border-bottom: 2px solid ${white};
       }
     `,
     hyperStatusLine: statusLine
