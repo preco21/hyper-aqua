@@ -1,18 +1,18 @@
 'use strict';
 
 // Base colors
-const backgroundColor = 'rgba(19, 41, 61, 0.66)';
-const backgroundColorWithoutTransparency = '#13293d';
+const backgroundColor = 'rgba(0, 16, 33, 0.75)';
+const backgroundColorWithoutTransparency = '#001021';
 const foregroundColor = '#fefefe';
 
 // Common colors
-const red = '#ed4a67';
+const red = '#ff4d80';
 const green = '#ceff1a';
 const yellow = '#fef226';
-const blue = '#26bbfe';
-const magenta = '#b14dd6';
-const cyan = '#75f4f4';
-const orange = '#fe9b26';
+const blue = '#23c9ff';
+const magenta = '#c04cfd';
+const cyan = '#76e5fc';
+const orange = '#ffbf00';
 const white = '#fafffd';
 const gray = '#c0bcb5';
 
