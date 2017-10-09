@@ -7,11 +7,11 @@ const foregroundColor = '#fefefe';
 
 // Common colors
 const red = '#ff4d80';
-const green = '#ceff1a';
-const yellow = '#fef226';
+const green = '#adff2f';
+const yellow = '#ffff33';
 const blue = '#23c9ff';
 const magenta = '#c04cfd';
-const cyan = '#3df5ff';
+const cyan = '#7df9ff';
 const orange = '#ffbf00';
 const white = '#fafffd';
 const gray = '#c0bcb5';
