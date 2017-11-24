@@ -1,8 +1,8 @@
 'use strict';
 
 // Base colors
-const backgroundColor = 'rgba(0, 16, 33, 0.75)';
-const backgroundColorWithoutTransparency = '#001021';
+const backgroundColor = 'rgba(4, 15, 28, 0.75)';
+const backgroundColorWithoutTransparency = '#040F1C';
 const foregroundColor = '#fefefe';
 
 // Common colors
