@@ -82,6 +82,7 @@ exports.decorateConfig = (config) => {
         font-weight: bold;
       }
       .tab_textActive {
+        box-sizing: content-box;
         border-bottom: 2px solid ${white};
       }
     `,
