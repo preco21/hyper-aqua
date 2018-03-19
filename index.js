@@ -21,7 +21,7 @@ exports.decorateConfig = (config) => {
   const {
     termCSS = '',
     css = '',
-    aquaTheme: {
+    hyperAqua: {
       vibrancy = 'dark',
       statusLine = true,
       overrides = {},

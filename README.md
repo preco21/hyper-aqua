@@ -19,7 +19,7 @@ This theme provides several options to extend its config as much as you like.
 You can set theme options by adding next to the end of `config` object in your `~/.hyper.js` config:
 
 ```javascript
-aquaTheme: {
+hyperAqua: {
   vibrancy: false,
   overrides: {
     backgroundColor: 'white',
