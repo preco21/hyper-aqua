@@ -14,7 +14,7 @@ Add `hyper-aqua` to `plugins` in `~/.hyper.js` config file and restart Hyper.
 
 ## Configuration
 
-This theme provides several options to extend its config as much as you like.
+This theme provides handy options to extend its config as much as you like.
 
 You can set theme options by adding next to the end of `config` object in your `~/.hyper.js` config:
 
@@ -35,9 +35,13 @@ Here is the available options:
 
 ## Tip
 
-If you'd like to get exact same look as in the screenshot, you will need to install all related plugins below, set font size to `16px` and cursor type to `BEAM`.
+If you'd like to get exact same look as in the screenshot, you will need to install `Oh My ZSH` and all related plugins below, set font size to `16px` and cursor type to `BEAM`.
 
-And it also used [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
+* [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
+* [`spaceship-prompt` theme](https://github.com/denysdovhan/spaceship-prompt)
+* [`FiraCode` font (used for powerline)](https://github.com/tonsky/FiraCode)
+* [`zsh-syntax-highlighting` plugin](https://github.com/zsh-users/zsh-syntax-highlighting)
+* [`zsh-autosuggestions` plugin](https://github.com/zsh-users/zsh-autosuggestions)
 
 ## Related plugins
 
