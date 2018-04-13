@@ -38,7 +38,7 @@ exports.decorateConfig = (config) => {
     borderColor: 'transparent',
     cursorColor: yellow,
     colors: {
-      black: backgroundColor,
+      black: backgroundColorWithoutTransparency,
       red,
       green,
       yellow,
