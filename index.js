@@ -22,7 +22,7 @@ exports.decorateConfig = (config) => {
     termCSS = '',
     css = '',
     hyperAqua: {
-      vibrancy = 'dark',
+      vibrancy = false,
       statusLine = true,
       overrides = {},
     } = {},
