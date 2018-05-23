@@ -6,12 +6,12 @@ const backgroundColorWithoutTransparency = '#0a1d32';
 const foregroundColor = '#dbe9f4';
 
 // Common colors
-const red = '#fa5282';
+const red = '#fa5482';
 const orange = '#f09030';
-const yellow = '#fae13c';
-const green = '#89e33b';
+const yellow = '#fae13e';
+const green = '#89e33d';
 const cyan = '#61dfff';
-const blue = '#52bdff';
+const blue = '#53bdff';
 const magenta = '#ac5ce5';
 const white = '#f1f5f7';
 const gray = '#a6b4bd';
